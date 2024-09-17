@@ -16,4 +16,6 @@ wav_transformer.ipynb contains experiments with the wav2vec speech recognition m
 
 modular_supervised.ipynb contains an attempt to implement the label-wise attention model from scratch.
 
+sae.ipynb demos an implementation of sparse autoencoders on medical text.
+
 # sample_notebooks
